@@ -1,3 +1,9 @@
 spring.application.name: logview
 server:
   port: 8081
+
+
+  telegram.bot.username: loggrepbot
+  telegram.bot.token: 7269136902:AAE9qzC37hoyVe5enZtrfvf_E4nXZdG5JlQ
+  telegram.chat.id: 517970343
+  log.file.path: logs/app.log

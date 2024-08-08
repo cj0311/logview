@@ -1,4 +1,4 @@
-package com.example.service;
+package com.example.logview.service;
 import org.springframework.stereotype.Service;
 
 import java.io.BufferedReader;
